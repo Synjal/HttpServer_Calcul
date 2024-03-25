@@ -1,0 +1,6 @@
+<h1>Bonjour, entrez votre calcul</h1>
+<form action="/calcul">
+	Premier nombre : <input type="number" name="nbr1"><br>
+	Deuxieme nombre : <input type="number" name="nbr2"<br><br>
+	<input type="submit" value="Calculer">
+</form>

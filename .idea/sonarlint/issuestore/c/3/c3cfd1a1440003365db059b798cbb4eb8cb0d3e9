@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈßûÅøÿÿÿÿ8®ÆÁØ1
+c
+java:S1075&"ARefactor your code to get this URI from a customizable parameter.(Ãèãœÿÿÿÿÿ8Ğ²ÁØ1
+^
+java:S1075S"ARefactor your code to get this URI from a customizable parameter.(ö¼ü8ÊÆÁØ1
+V
+java:S1128"9Remove this unused import 'java.awt.image.RenderedImage'.(¤Ò£Ò8•ûíÂØ1
+\
+java:S1128":Remove this unused import 'java.util.concurrent.Executor'.(÷ı¶Œúÿÿÿÿ8Ò¿îÂØ1
+_
+java:S1128"BRemove this unused import 'javax.imageio.stream.ImageInputStream'.(Ç®ô8–ûíÂØ1
